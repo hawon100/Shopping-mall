@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
+
+#logo_text {
+    font-family: "Black Han Sans", serif;
+    font-weight: 400;
+    font-size: 40px;
+    font-style: normal;
+    margin-left: 850px;
+}
+
+#test_table,
+th,
+td {
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 10px 20px;
+}
